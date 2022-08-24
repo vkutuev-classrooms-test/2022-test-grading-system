@@ -1,3 +1,6 @@
 [submodule "2022-test-grading-tests"]
 	path = 2022-test-grading-tests
 	url = git@github.com:vkutuev-classrooms-test/2022-test-grading-tests.git
+[submodule "2022-test-student-repo"]
+	path = 2022-test-student-repo
+	url = git@github.com:vkutuev-classrooms-test/2022-test-student-repo.git
