@@ -15,7 +15,7 @@ if (ENABLE_TESTS)
     find_package(CMocka CONFIG REQUIRED)
     include(AddCMockaTest)
     include(AddMockedTest)
-    add_subdirectory(6-grading-tests/test)
+    add_subdirectory(2022-test-grading-tests/test)
     enable_testing()
 endif(ENABLE_TESTS)
 
